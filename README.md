@@ -1,0 +1,1 @@
+A terminal text editor built with the help of [Build Your Own Text Editor by Snaptoken](https://viewsourcecode.org/snaptoken/kilo/)
